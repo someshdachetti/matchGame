@@ -1,0 +1,39 @@
+.navbar-container{
+    background:  #2c0e3a;
+    height:9vh;
+    width:99vw;
+}
+.logo-container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height:6vh;
+    width:14vw;
+}
+.score-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+}
+.time-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.score{
+    color:white;
+    font-family:  'Haettenschweiler' ;
+    font-size:20px;
+    margin-right:38px;
+}
+.img{
+    margin-right:18px;
+}
+.time{
+    color:white;
+    font-family:  'Haettenschweiler' ;
+    font-size:20px;
+}

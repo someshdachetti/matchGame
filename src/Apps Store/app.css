@@ -1,0 +1,22 @@
+.each-img {
+    height:14vh;
+    width:11vw;
+}
+.img-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap:wrap;
+}
+
+
+.button-container{
+    background:transparent;
+    margin:8px;
+    border-width:0px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

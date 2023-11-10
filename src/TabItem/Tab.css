@@ -1,0 +1,16 @@
+.each-tabItem-container{
+    display:block;
+    text-align: center;
+    background: transparent;
+    border-width:0px;
+}
+
+.each-tab{
+    margin:10px;
+    color:#fec653;
+    font-family: 'Cambria';
+    font-weight: bolder;
+}
+.activeTab {
+    border-bottom: solid 2px #53fe97;
+}
